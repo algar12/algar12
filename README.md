@@ -21,28 +21,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-class Ghofur:
-    def __init__(self):
-        self.name       = "Abdul Ghofur"
-        self.username   = "algar12"
-        self.passion    = ["Web Development", "IoT Systems", "AI & Machine Learning"]
-        self.languages  = ["Python", "PHP", "JavaScript"]
-        self.frameworks = ["Laravel", "React", "Node.js"]
-        self.databases  = ["MySQL", "SQLite"]
-        self.tools      = ["Docker", "Git", "n8n", "Arduino"]
-        self.currently  = "Building smart IoT systems & AI-powered apps 🤖"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
-
-me = Ghofur()
-me.say_hi()
-```
-
----
 
 ## 🚀 Tech Stack & Tools
 
@@ -93,44 +71,10 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=algar12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=algar12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/algar12/laravel-smart-garden-iot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=algar12&repo=laravel-smart-garden-iot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-&nbsp;
-<a href="https://github.com/algar12/Deteksi_tomat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=algar12&repo=Deteksi_tomat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/algar12/monitoring_sensorGas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=algar12&repo=monitoring_sensorGas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-&nbsp;
-<a href="https://github.com/algar12/Absensi-Gesture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=algar12&repo=Absensi-Gesture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-
 </div>
 
 ---
